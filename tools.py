@@ -6,7 +6,7 @@ Created on Tue Dec  6 13:33:45 2016
 
 These are tools for the AutoSleepScorer.
 """
-
+!pip install prettytable
 import csv
 import numpy as np
 import os.path
