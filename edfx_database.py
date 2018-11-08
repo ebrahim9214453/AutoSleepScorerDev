@@ -4,7 +4,6 @@ Created on Fri Jul 14 17:37:22 2017
 
 @author: Simon
 """
-!pip install wfdb 
 import wfdb  # this package is used to download the EDFx database
 import os
 import sleeploader
